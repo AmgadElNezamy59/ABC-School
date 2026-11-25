@@ -1,0 +1,1144 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "alphabet",
+      "title": "Alphabet",
+      "cover": {
+        "kind": "text",
+        "value": "ABC"
+      },
+      "colors": [
+        "#6C5CE7",
+        "#4B3BC4"
+      ],
+      "words": [
+        {
+          "id": "alphabet.a",
+          "text": "A",
+          "sentence": "A is for apple.",
+          "visual": {
+            "kind": "text",
+            "value": "Aa",
+            "badge": "🍎"
+          },
+          "accepted": [
+            "ay"
+          ]
+        },
+        {
+          "id": "alphabet.b",
+          "text": "B",
+          "sentence": "B is for ball.",
+          "visual": {
+            "kind": "text",
+            "value": "Bb",
+            "badge": "⚽"
+          },
+          "accepted": [
+            "bee",
+            "be"
+          ]
+        },
+        {
+          "id": "alphabet.c",
+          "text": "C",
+          "sentence": "C is for cat.",
+          "visual": {
+            "kind": "text",
+            "value": "Cc",
+            "badge": "🐱"
+          },
+          "accepted": [
+            "see",
+            "sea"
+          ]
+        },
+        {
+          "id": "alphabet.d",
+          "text": "D",
+          "sentence": "D is for dog.",
+          "visual": {
+            "kind": "text",
+            "value": "Dd",
+            "badge": "🐶"
+          },
+          "accepted": [
+            "dee"
+          ]
+        },
+        {
+          "id": "alphabet.e",
+          "text": "E",
+          "sentence": "E is for egg.",
+          "visual": {
+            "kind": "text",
+            "value": "Ee",
+            "badge": "🥚"
+          },
+          "accepted": [
+            "ee"
+          ]
+        },
+        {
+          "id": "alphabet.f",
+          "text": "F",
+          "sentence": "F is for fish.",
+          "visual": {
+            "kind": "text",
+            "value": "Ff",
+            "badge": "🐟"
+          },
+          "accepted": [
+            "ef",
+            "eff"
+          ]
+        },
+        {
+          "id": "alphabet.g",
+          "text": "G",
+          "sentence": "G is for goat.",
+          "visual": {
+            "kind": "text",
+            "value": "Gg",
+            "badge": "🐐"
+          },
+          "accepted": [
+            "gee"
+          ]
+        },
+        {
+          "id": "alphabet.h",
+          "text": "H",
+          "sentence": "H is for hat.",
+          "visual": {
+            "kind": "text",
+            "value": "Hh",
+            "badge": "🎩"
+          },
+          "accepted": [
+            "aitch",
+            "haitch"
+          ]
+        },
+        {
+          "id": "alphabet.i",
+          "text": "I",
+          "sentence": "I is for ice cream.",
+          "visual": {
+            "kind": "text",
+            "value": "Ii",
+            "badge": "🍦"
+          },
+          "accepted": [
+            "eye",
+            "aye"
+          ]
+        },
+        {
+          "id": "alphabet.j",
+          "text": "J",
+          "sentence": "J is for juice.",
+          "visual": {
+            "kind": "text",
+            "value": "Jj",
+            "badge": "🧃"
+          },
+          "accepted": [
+            "jay"
+          ]
+        },
+        {
+          "id": "alphabet.k",
+          "text": "K",
+          "sentence": "K is for kite.",
+          "visual": {
+            "kind": "text",
+            "value": "Kk",
+            "badge": "🪁"
+          },
+          "accepted": [
+            "kay"
+          ]
+        },
+        {
+          "id": "alphabet.l",
+          "text": "L",
+          "sentence": "L is for lion.",
+          "visual": {
+            "kind": "text",
+            "value": "Ll",
+            "badge": "🦁"
+          },
+          "accepted": [
+            "el",
+            "elle"
+          ]
+        },
+        {
+          "id": "alphabet.m",
+          "text": "M",
+          "sentence": "M is for moon.",
+          "visual": {
+            "kind": "text",
+            "value": "Mm",
+            "badge": "🌙"
+          },
+          "accepted": [
+            "em"
+          ]
+        },
+        {
+          "id": "alphabet.n",
+          "text": "N",
+          "sentence": "N is for nest.",
+          "visual": {
+            "kind": "text",
+            "value": "Nn",
+            "badge": "🪺"
+          },
+          "accepted": [
+            "en"
+          ]
+        },
+        {
+          "id": "alphabet.o",
+          "text": "O",
+          "sentence": "O is for octopus.",
+          "visual": {
+            "kind": "text",
+            "value": "Oo",
+            "badge": "🐙"
+          },
+          "accepted": [
+            "oh",
+            "owe"
+          ]
+        },
+        {
+          "id": "alphabet.p",
+          "text": "P",
+          "sentence": "P is for pig.",
+          "visual": {
+            "kind": "text",
+            "value": "Pp",
+            "badge": "🐷"
+          },
+          "accepted": [
+            "pee",
+            "pea"
+          ]
+        },
+        {
+          "id": "alphabet.q",
+          "text": "Q",
+          "sentence": "Q is for queen.",
+          "visual": {
+            "kind": "text",
+            "value": "Qq",
+            "badge": "👸"
+          },
+          "accepted": [
+            "queue",
+            "cue"
+          ]
+        },
+        {
+          "id": "alphabet.r",
+          "text": "R",
+          "sentence": "R is for rabbit.",
+          "visual": {
+            "kind": "text",
+            "value": "Rr",
+            "badge": "🐰"
+          },
+          "accepted": [
+            "are",
+            "ar"
+          ]
+        },
+        {
+          "id": "alphabet.s",
+          "text": "S",
+          "sentence": "S is for sun.",
+          "visual": {
+            "kind": "text",
+            "value": "Ss",
+            "badge": "☀️"
+          },
+          "accepted": [
+            "es",
+            "ess"
+          ]
+        },
+        {
+          "id": "alphabet.t",
+          "text": "T",
+          "sentence": "T is for tree.",
+          "visual": {
+            "kind": "text",
+            "value": "Tt",
+            "badge": "🌳"
+          },
+          "accepted": [
+            "tea",
+            "tee"
+          ]
+        },
+        {
+          "id": "alphabet.u",
+          "text": "U",
+          "sentence": "U is for umbrella.",
+          "visual": {
+            "kind": "text",
+            "value": "Uu",
+            "badge": "☂️"
+          },
+          "accepted": [
+            "you"
+          ]
+        },
+        {
+          "id": "alphabet.v",
+          "text": "V",
+          "sentence": "V is for violin.",
+          "visual": {
+            "kind": "text",
+            "value": "Vv",
+            "badge": "🎻"
+          },
+          "accepted": [
+            "vee"
+          ]
+        },
+        {
+          "id": "alphabet.w",
+          "text": "W",
+          "sentence": "W is for whale.",
+          "visual": {
+            "kind": "text",
+            "value": "Ww",
+            "badge": "🐳"
+          },
+          "accepted": [
+            "double you",
+            "double u"
+          ]
+        },
+        {
+          "id": "alphabet.x",
+          "text": "X",
+          "sentence": "X is for x-ray.",
+          "visual": {
+            "kind": "text",
+            "value": "Xx",
+            "badge": "🩻"
+          },
+          "accepted": [
+            "ex"
+          ]
+        },
+        {
+          "id": "alphabet.y",
+          "text": "Y",
+          "sentence": "Y is for yo-yo.",
+          "visual": {
+            "kind": "text",
+            "value": "Yy",
+            "badge": "🪀"
+          },
+          "accepted": [
+            "why"
+          ]
+        },
+        {
+          "id": "alphabet.z",
+          "text": "Z",
+          "sentence": "Z is for zebra.",
+          "visual": {
+            "kind": "text",
+            "value": "Zz",
+            "badge": "🦓"
+          },
+          "accepted": [
+            "zee",
+            "zed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fruits",
+      "title": "Fruits",
+      "cover": {
+        "kind": "photo",
+        "value": "banana"
+      },
+      "colors": [
+        "#EF5350",
+        "#C62F3E"
+      ],
+      "words": [
+        {
+          "id": "fruits.apple",
+          "text": "Apple",
+          "syllables": "Ap·ple",
+          "sentence": "I eat a red apple.",
+          "visual": {
+            "kind": "photo",
+            "value": "apple"
+          },
+          "colors": [
+            "#DB4636",
+            "#550C09"
+          ],
+          "audio": "apple.mp3"
+        },
+        {
+          "id": "fruits.banana",
+          "text": "Banana",
+          "syllables": "Ba·na·na",
+          "sentence": "Monkeys love bananas.",
+          "visual": {
+            "kind": "photo",
+            "value": "banana"
+          },
+          "colors": [
+            "#FBE6A0",
+            "#DCA345"
+          ],
+          "audio": "banana.mp3"
+        },
+        {
+          "id": "fruits.strawberry",
+          "text": "Strawberry",
+          "syllables": "Straw·ber·ry",
+          "sentence": "Strawberries are red and sweet.",
+          "visual": {
+            "kind": "photo",
+            "value": "strawberry"
+          },
+          "colors": [
+            "#F1BC98",
+            "#74140C"
+          ],
+          "audio": "strawberry.mp3"
+        },
+        {
+          "id": "fruits.orange",
+          "text": "Orange",
+          "syllables": "Or·ange",
+          "sentence": "I drink orange juice.",
+          "visual": {
+            "kind": "photo",
+            "value": "orange"
+          },
+          "colors": [
+            "#FCEBAB",
+            "#D5792D"
+          ],
+          "audio": "orange.mp3"
+        },
+        {
+          "id": "fruits.pineapple",
+          "text": "Pineapple",
+          "syllables": "Pine·ap·ple",
+          "sentence": "A pineapple is sweet and spiky.",
+          "visual": {
+            "kind": "photo",
+            "value": "pineapple"
+          },
+          "colors": [
+            "#FAE05A",
+            "#9EAE8D"
+          ]
+        },
+        {
+          "id": "fruits.peach",
+          "text": "Peach",
+          "sentence": "The peach is soft and juicy.",
+          "visual": {
+            "kind": "photo",
+            "value": "peach"
+          },
+          "colors": [
+            "#F9D96C",
+            "#A44150"
+          ]
+        },
+        {
+          "id": "fruits.grapes",
+          "text": "Grapes",
+          "sentence": "Grapes can be green or red.",
+          "visual": {
+            "kind": "photo",
+            "value": "grapes"
+          },
+          "colors": [
+            "#E6F25F",
+            "#9D2D36"
+          ]
+        },
+        {
+          "id": "fruits.fig",
+          "text": "Fig",
+          "sentence": "A fig is soft and sweet.",
+          "visual": {
+            "kind": "photo",
+            "value": "fig"
+          },
+          "colors": [
+            "#B54F39",
+            "#676375"
+          ]
+        },
+        {
+          "id": "fruits.watermelon",
+          "text": "Watermelon",
+          "syllables": "Wa·ter·mel·on",
+          "sentence": "Watermelon is red inside.",
+          "visual": {
+            "kind": "photo",
+            "value": "watermelon"
+          },
+          "colors": [
+            "#BECE68",
+            "#E67A64"
+          ]
+        },
+        {
+          "id": "fruits.kiwi",
+          "text": "Kiwi",
+          "syllables": "Ki·wi",
+          "sentence": "A kiwi is green inside.",
+          "visual": {
+            "kind": "photo",
+            "value": "kiwi"
+          },
+          "colors": [
+            "#C7CE78",
+            "#D19D61"
+          ]
+        },
+        {
+          "id": "fruits.pomegranate",
+          "text": "Pomegranate",
+          "syllables": "Pom·e·gran·ate",
+          "sentence": "A pomegranate has many seeds.",
+          "visual": {
+            "kind": "photo",
+            "value": "pomegranate"
+          },
+          "colors": [
+            "#F4BCBE",
+            "#671F1C"
+          ]
+        },
+        {
+          "id": "fruits.guava",
+          "text": "Guava",
+          "syllables": "Gua·va",
+          "sentence": "A guava is green outside.",
+          "visual": {
+            "kind": "photo",
+            "value": "guava"
+          },
+          "colors": [
+            "#E9E1C2",
+            "#D7D75E"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "Animals",
+      "cover": {
+        "kind": "emoji",
+        "value": "🦁"
+      },
+      "colors": [
+        "#2A9A63",
+        "#1C7A55"
+      ],
+      "words": [
+        {
+          "id": "animals.cat",
+          "text": "Cat",
+          "sentence": "The cat says meow.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐱"
+          },
+          "colors": [
+            "#FFE3C2",
+            "#FFC48C"
+          ]
+        },
+        {
+          "id": "animals.dog",
+          "text": "Dog",
+          "sentence": "The dog says woof.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐶"
+          },
+          "colors": [
+            "#F7E1C8",
+            "#E3B98F"
+          ]
+        },
+        {
+          "id": "animals.cow",
+          "text": "Cow",
+          "sentence": "The cow says moo.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐮"
+          },
+          "colors": [
+            "#E6F4D7",
+            "#BFE3A1"
+          ]
+        },
+        {
+          "id": "animals.horse",
+          "text": "Horse",
+          "sentence": "The horse can run fast.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐴"
+          },
+          "colors": [
+            "#F3E0D0",
+            "#D9B08C"
+          ]
+        },
+        {
+          "id": "animals.sheep",
+          "text": "Sheep",
+          "sentence": "The sheep is soft and woolly.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐑"
+          },
+          "colors": [
+            "#E3F1FF",
+            "#B9D8F7"
+          ]
+        },
+        {
+          "id": "animals.duck",
+          "text": "Duck",
+          "sentence": "The duck says quack.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🦆"
+          },
+          "colors": [
+            "#DFF3FF",
+            "#9FD4F5"
+          ]
+        },
+        {
+          "id": "animals.bird",
+          "text": "Bird",
+          "sentence": "The bird can fly.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐦"
+          },
+          "colors": [
+            "#E5F7FF",
+            "#A7DDF5"
+          ]
+        },
+        {
+          "id": "animals.lion",
+          "text": "Lion",
+          "syllables": "Li·on",
+          "sentence": "The lion can roar.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🦁"
+          },
+          "colors": [
+            "#FFF0C2",
+            "#FFD36B"
+          ]
+        },
+        {
+          "id": "animals.elephant",
+          "text": "Elephant",
+          "syllables": "El·e·phant",
+          "sentence": "The elephant is very big.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐘"
+          },
+          "colors": [
+            "#E9E4FF",
+            "#C3B8F5"
+          ]
+        },
+        {
+          "id": "animals.monkey",
+          "text": "Monkey",
+          "syllables": "Mon·key",
+          "sentence": "The monkey can climb trees.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐵"
+          },
+          "colors": [
+            "#E7F6D5",
+            "#B3DC8A"
+          ]
+        },
+        {
+          "id": "animals.rabbit",
+          "text": "Rabbit",
+          "syllables": "Rab·bit",
+          "sentence": "The rabbit can hop.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐰"
+          },
+          "colors": [
+            "#FFE5EC",
+            "#FFBFD0"
+          ]
+        },
+        {
+          "id": "animals.frog",
+          "text": "Frog",
+          "sentence": "The frog can jump.",
+          "visual": {
+            "kind": "emoji",
+            "value": "🐸"
+          },
+          "colors": [
+            "#DDF6E8",
+            "#9FDDB8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "colors",
+      "title": "Colors",
+      "cover": {
+        "kind": "emoji",
+        "value": "🎨"
+      },
+      "colors": [
+        "#0F9D9A",
+        "#0B7C7A"
+      ],
+      "words": [
+        {
+          "id": "colors.red",
+          "text": "Red",
+          "sentence": "The apple is red.",
+          "visual": {
+            "kind": "color",
+            "value": "#E53935"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ],
+          "accepted": [
+            "read"
+          ]
+        },
+        {
+          "id": "colors.blue",
+          "text": "Blue",
+          "sentence": "The sky is blue.",
+          "visual": {
+            "kind": "color",
+            "value": "#1E88E5"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ],
+          "accepted": [
+            "blew"
+          ]
+        },
+        {
+          "id": "colors.yellow",
+          "text": "Yellow",
+          "syllables": "Yel·low",
+          "sentence": "The sun is yellow.",
+          "visual": {
+            "kind": "color",
+            "value": "#FDD835"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ]
+        },
+        {
+          "id": "colors.green",
+          "text": "Green",
+          "sentence": "The grass is green.",
+          "visual": {
+            "kind": "color",
+            "value": "#43A047"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ]
+        },
+        {
+          "id": "colors.orange",
+          "text": "Orange",
+          "syllables": "Or·ange",
+          "sentence": "The orange is orange.",
+          "visual": {
+            "kind": "color",
+            "value": "#FB8C00"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ]
+        },
+        {
+          "id": "colors.purple",
+          "text": "Purple",
+          "syllables": "Pur·ple",
+          "sentence": "Grapes can be purple.",
+          "visual": {
+            "kind": "color",
+            "value": "#8E24AA"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ]
+        },
+        {
+          "id": "colors.pink",
+          "text": "Pink",
+          "sentence": "The pig is pink.",
+          "visual": {
+            "kind": "color",
+            "value": "#F06292"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ]
+        },
+        {
+          "id": "colors.brown",
+          "text": "Brown",
+          "sentence": "The horse is brown.",
+          "visual": {
+            "kind": "color",
+            "value": "#8D6E63"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ]
+        },
+        {
+          "id": "colors.black",
+          "text": "Black",
+          "sentence": "The night is black.",
+          "visual": {
+            "kind": "color",
+            "value": "#212121"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ]
+        },
+        {
+          "id": "colors.white",
+          "text": "White",
+          "sentence": "Snow is white.",
+          "visual": {
+            "kind": "color",
+            "value": "#FFFFFF"
+          },
+          "colors": [
+            "#FFF7E8",
+            "#F5E6CC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numbers",
+      "cover": {
+        "kind": "text",
+        "value": "123"
+      },
+      "colors": [
+        "#3D8BEB",
+        "#2563C9"
+      ],
+      "words": [
+        {
+          "id": "numbers.1",
+          "text": "One",
+          "sentence": "I have one nose.",
+          "visual": {
+            "kind": "number",
+            "value": "1"
+          },
+          "accepted": [
+            "1",
+            "won"
+          ]
+        },
+        {
+          "id": "numbers.2",
+          "text": "Two",
+          "sentence": "I have two hands.",
+          "visual": {
+            "kind": "number",
+            "value": "2"
+          },
+          "accepted": [
+            "2",
+            "to",
+            "too"
+          ]
+        },
+        {
+          "id": "numbers.3",
+          "text": "Three",
+          "sentence": "A triangle has three sides.",
+          "visual": {
+            "kind": "number",
+            "value": "3"
+          },
+          "accepted": [
+            "3"
+          ]
+        },
+        {
+          "id": "numbers.4",
+          "text": "Four",
+          "sentence": "A cat has four legs.",
+          "visual": {
+            "kind": "number",
+            "value": "4"
+          },
+          "accepted": [
+            "4",
+            "for"
+          ]
+        },
+        {
+          "id": "numbers.5",
+          "text": "Five",
+          "sentence": "One hand has five fingers.",
+          "visual": {
+            "kind": "number",
+            "value": "5"
+          },
+          "accepted": [
+            "5"
+          ]
+        },
+        {
+          "id": "numbers.6",
+          "text": "Six",
+          "sentence": "An insect has six legs.",
+          "visual": {
+            "kind": "number",
+            "value": "6"
+          },
+          "accepted": [
+            "6"
+          ]
+        },
+        {
+          "id": "numbers.7",
+          "text": "Seven",
+          "syllables": "Sev·en",
+          "sentence": "A week has seven days.",
+          "visual": {
+            "kind": "number",
+            "value": "7"
+          },
+          "accepted": [
+            "7"
+          ]
+        },
+        {
+          "id": "numbers.8",
+          "text": "Eight",
+          "sentence": "An octopus has eight arms.",
+          "visual": {
+            "kind": "number",
+            "value": "8"
+          },
+          "accepted": [
+            "8",
+            "ate"
+          ]
+        },
+        {
+          "id": "numbers.9",
+          "text": "Nine",
+          "sentence": "Nine comes after eight.",
+          "visual": {
+            "kind": "number",
+            "value": "9"
+          },
+          "accepted": [
+            "9"
+          ]
+        },
+        {
+          "id": "numbers.10",
+          "text": "Ten",
+          "sentence": "I have ten toes.",
+          "visual": {
+            "kind": "number",
+            "value": "10"
+          },
+          "accepted": [
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shapes",
+      "title": "Shapes",
+      "cover": {
+        "kind": "shape",
+        "value": "star.fill"
+      },
+      "colors": [
+        "#E06A10",
+        "#C2500A"
+      ],
+      "words": [
+        {
+          "id": "shapes.circle",
+          "text": "Circle",
+          "syllables": "Cir·cle",
+          "sentence": "The sun looks like a circle.",
+          "visual": {
+            "kind": "shape",
+            "value": "circle.fill"
+          },
+          "colors": [
+            "#FF8A65",
+            "#E64A19"
+          ]
+        },
+        {
+          "id": "shapes.square",
+          "text": "Square",
+          "sentence": "A window can be a square.",
+          "visual": {
+            "kind": "shape",
+            "value": "square.fill"
+          },
+          "colors": [
+            "#64B5F6",
+            "#1565C0"
+          ]
+        },
+        {
+          "id": "shapes.triangle",
+          "text": "Triangle",
+          "syllables": "Tri·an·gle",
+          "sentence": "A slice of pizza is a triangle.",
+          "visual": {
+            "kind": "shape",
+            "value": "triangle.fill"
+          },
+          "colors": [
+            "#66BB6A",
+            "#2E7D32"
+          ]
+        },
+        {
+          "id": "shapes.rectangle",
+          "text": "Rectangle",
+          "syllables": "Rec·tan·gle",
+          "sentence": "A door is a rectangle.",
+          "visual": {
+            "kind": "shape",
+            "value": "rectangle.fill"
+          },
+          "colors": [
+            "#BA68C8",
+            "#7B1FA2"
+          ]
+        },
+        {
+          "id": "shapes.star",
+          "text": "Star",
+          "sentence": "Stars shine at night.",
+          "visual": {
+            "kind": "shape",
+            "value": "star.fill"
+          },
+          "colors": [
+            "#FBC02D",
+            "#EF6C00"
+          ]
+        },
+        {
+          "id": "shapes.heart",
+          "text": "Heart",
+          "sentence": "I love you with all my heart.",
+          "visual": {
+            "kind": "shape",
+            "value": "heart.fill"
+          },
+          "colors": [
+            "#F06292",
+            "#C2185B"
+          ]
+        },
+        {
+          "id": "shapes.diamond",
+          "text": "Diamond",
+          "syllables": "Di·a·mond",
+          "sentence": "A kite can be a diamond.",
+          "visual": {
+            "kind": "shape",
+            "value": "diamond.fill"
+          },
+          "colors": [
+            "#4DD0E1",
+            "#00838F"
+          ]
+        },
+        {
+          "id": "shapes.oval",
+          "text": "Oval",
+          "syllables": "O·val",
+          "sentence": "An egg is an oval.",
+          "visual": {
+            "kind": "shape",
+            "value": "oval.fill"
+          },
+          "colors": [
+            "#FFB74D",
+            "#E65100"
+          ]
+        }
+      ]
+    }
+  ]
+}
